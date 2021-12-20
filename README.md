@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=4B5862&size=25&lines=Infrastructure+as+Code+(IaC))](https://git.io/typing-svg)
 >"When we say "as code" we mean that all the good practices we've learned in the software world should be applied to infrastructure. Using source control, adhering to the DRY principle, modularization, maintainability, and using automated testing and deployment are all critical practices. Those of us with a deep software and infrastructure background need to empathize with and support colleagues who do not. Saying "treat infrastructure like code" isn't enough; we need to ensure the hard-won learnings from the software world are also applied consistently throughout the infrastructure realm." - ThoughtWorks
 
+### Fuel
+![Coffee](https://img.shields.io/badge/Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+
 ### Tools
 
 ![Chef Inspec](https://img.shields.io/badge/chef%20inspec-%23ED8B00.svg?style=for-the-badge&logo=chef&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
