@@ -7,6 +7,9 @@
 ### Fuel
 ![Coffee](https://img.shields.io/badge/Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
+### Practices
+![Continuous Delivery](https://img.shields.io/badge/Continuous%20Delivery-%23964B00.svg?style=for-the-badge)
+
 ### Tools
 
 ![Chef Inspec](https://img.shields.io/badge/chef%20inspec-%23ED8B00.svg?style=for-the-badge&logo=chef&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
