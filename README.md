@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%234B5862&vCenter=true&multiline=true&width=600&height=125&lines=resource+%22infrastucture_as_code%22+%22developer%22+%7B;name+%3D+%22Brett+Curtis%22;location+%3D+%22Maine%22;%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%234B5862&vCenter=true&multiline=true&width=600&height=125&lines=resource+%22infrastructure_as_code%22+%22developer%22+%7B;name+%3D+%22Brett+Curtis%22;location+%3D+%22Maine%22;%7D)](https://git.io/typing-svg)
 
 >"When we say "as code" we mean that all the good practices we've learned in the software world should be applied to infrastructure. Using source control, adhering to the DRY principle, modularization, maintainability, and using automated testing and deployment are all critical practices. Those of us with a deep software and infrastructure background need to empathize with and support colleagues who do not. Saying "treat infrastructure like code" isn't enough; we need to ensure the hard-won learnings from the software world are also applied consistently throughout the infrastructure realm." - ThoughtWorks
 
