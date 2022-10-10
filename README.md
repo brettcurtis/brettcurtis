@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23585858&multiline=true&width=525&height=125&lines=resource+%22infrastructure_as_code%22+%22developer%22+%7B;%E2%80%82%E2%80%82name+%E2%80%82%E2%80%82%E2%80%82%E2%80%82%3D+%22Brett+Curtis%22;%E2%80%82%E2%80%82location+%3D+%22Maine%22;%7D)](https://git.io/typing-svg)
-
 ## Stuff I'm into right now
 
 ### Fuel
