@@ -25,7 +25,3 @@
 ### Languages
 
 ![Terraform](https://img.shields.io/badge/HCL-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-
-### Stats
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=brettcurtis)](https://github.com/LordDashMe/github-contribution-stats)
