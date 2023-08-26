@@ -6,7 +6,7 @@
 
 ### Practices
 
-![Continuous Delivery](https://img.shields.io/badge/Continuous%20Delivery-%23964B00.svg?style=for-the-badge)
+![Continuous Delivery](https://img.shields.io/badge/Continuous%20Delivery-%23964B00.svg?style=for-the-badge) ![Team Topologies](https://img.shields.io/badge/Team%20Topologies-6D9EEB?style=for-the-badge)
 
 ### Tools
 
