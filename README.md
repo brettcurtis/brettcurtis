@@ -1,8 +1,10 @@
 ## Stuff I'm into right now
 
-### Fuel
+### Fuel & Fun
 
-![Coffee](https://img.shields.io/badge/Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+![Coffee](https://img.shields.io/badge/Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) ![Steak](https://img.shields.io/badge/Steak-%23964B00.svg?style=for-the-badge) ![CrossFit](https://img.shields.io/badge/CrossFit-000000?style=for-the-badge)
+
+
 
 ### Organizational Design and Practices
 
