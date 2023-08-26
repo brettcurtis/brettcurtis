@@ -4,9 +4,9 @@
 
 ![Coffee](https://img.shields.io/badge/Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
-### Practices
+### Organizational Design and Practices
 
-![Continuous Delivery](https://img.shields.io/badge/Continuous%20Delivery-%23964B00.svg?style=for-the-badge) ![Team Topologies](https://img.shields.io/badge/Team%20Topologies-6D9EEB?style=for-the-badge)
+![Team Topologies](https://img.shields.io/badge/Team%20Topologies-6D9EEB?style=for-the-badge) ![Continuous Delivery](https://img.shields.io/badge/Continuous%20Delivery-%23964B00.svg?style=for-the-badge) 
 
 ### Tools
 
