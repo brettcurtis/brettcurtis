@@ -2,7 +2,7 @@
 
 ### Fuel & Fun
 
-![Steak](https://img.shields.io/badge/Steak-%23964B00.svg?style=for-the-badge) ![CrossFit](https://img.shields.io/badge/CrossFit-000000?style=for-the-badge)
+![Steak](https://img.shields.io/badge/Steak-%23964B00.svg?style=for-the-badge) ![CrossFit](https://img.shields.io/badge/CrossFit-000000?style=for-the-badge) ![Coffee](https://img.shields.io/badge/Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
 
 
